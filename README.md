@@ -9,4 +9,4 @@ It can be used to save people stuck under the debris during the time of Natural 
 
 We can also trigger their wifi hotspot and make our [Raspberry_pi] connected to it. 
 
-It would provide the distance between the Hotspot and the Device [ Pi]
+It would provide the distance between the Hotspot and the Device [ Pi].
