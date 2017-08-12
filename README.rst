@@ -2,7 +2,7 @@
 SaveMe
 =======
 
-**SaveMe** is an application written in Python. It is designed to read the distance between a **Wi-Fi Access Point** and our raspberry Pi.
+**SaveMe** is an application written in Python. It is designed to read the distance between a **Wi-Fi Access Point** and our **Raspberry Pi** .
 
 
 =======
